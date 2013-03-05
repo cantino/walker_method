@@ -11,7 +11,7 @@ pre-computation phase has completed.  For this example, you could do:
     selector = WalkerMethod.new([:win, :lose], [80, 20])
     selector.random
 
-This implementation is a port of http://code.activestate.com/recipes/576564-walkers-alias-method-for-random-objects-with-diffe/ to Ruby.
+This implementation is a port of http://code.activestate.com/recipes/576564-walkers-alias-method-for-random-objects-with-diffe/ from Python to Ruby.  There is also a [Node.js implementation](https://github.com/ThoughtLeadr/Walker-Random-Node).
 
 ## Speed
 
