@@ -15,7 +15,7 @@ This implementation is a port of http://code.activestate.com/recipes/576564-walk
 
 ## Speed
 
-It's FAST and simple.  It samples from a 50,000 word frequency dictionary 10,000 times in 1.2 miliseconds.
+It's FAST and simple.  It samples from a 50,000 word frequency dictionary 10,000 times in 1.2 milliseconds.
 
 ## Installation
 
