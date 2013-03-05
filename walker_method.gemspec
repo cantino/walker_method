@@ -9,6 +9,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Andrew Cantino"]
   gem.email         = ["cantino@gmail.com"]
   gem.description   = %q{Ruby implementation of Walker's Alias Method for quickly sampling objects with a given probability distribution}
+  gem.summary       = %q{}
   gem.homepage      = "https://github.com/cantino/walker_method"
 
   gem.files         = `git ls-files`.split($/)
